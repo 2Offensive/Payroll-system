@@ -1,4 +1,4 @@
-# Employee Payroll System (C++)
+<img width="640" height="539" alt="image (1)" src="https://github.com/user-attachments/assets/43025891-5299-490a-9de1-0c3fca645cd2" /># Employee Payroll System (C++)
 
 A console-based payroll management tool I built for Project Phase 1 of my internship at Sqrock IT Solutions. It's meant to simulate how an HR/admin team would manage employee records and generate salaries at the end of the month, based on attendance.
 
@@ -61,3 +61,12 @@ The interesting part of this project wasn't the CRUD operations (those are prett
 
 ---
 Built as part of Project Phase 1, Sqrock IT Solutions Internship.
+
+SCREENSHOTS:
+
+<img width="386" height="748" alt="image" src="https://github.com/user-attachments/assets/b2d27f87-eb8b-42f8-b21d-b2bb4f940796" />
+<img width="640" height="539" alt="image (1)" src="https://github.com/user-attachments/assets/22fda3dd-9318-4895-9e74-9e59e0f88a75" />
+<img width="366" height="511" alt="image (2)" src="https://github.com/user-attachments/assets/154197d9-d85e-498a-9702-62ab86c32222" />
+<img width="338" height="451" alt="image (3)" src="https://github.com/user-attachments/assets/4680e968-6ce7-4b2a-bee0-5d79569c287c" />
+
+
